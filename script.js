@@ -25,12 +25,12 @@ const paypalBody = `
         <div class="header__nav--right">
             <div class="dx-auth-block profile__container">
                 <div class="dx-auth-logged-out">
-                    <a style="width: 50%; height: 8%; font-size: 18px;" href="#" class="css-1qlw6jl vx_btn vx_btn-block">Send More Money</a>
+                    <a style="width: 50%; height: 8%; font-size: 18px;" href="#" class="css-1qlw6jl vx_btn vx_btn-block">Go to Summary</a>
                 </div>
             </div>
         </div>
 
-        <a href="#" onclick="goHome()"><b>Go to Summary</b></a>
+        <a href="#" onclick="goHome()"><b>Send More Money</b></a>
     <script>
         goHome = () => {
             window.location = "index.html"
