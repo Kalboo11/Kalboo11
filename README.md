@@ -1,4 +1,4 @@
-# Fake Paypal Proof Generator
+#  Paypal  Generator
 
 ## HERE:
 You can Open the link the generate <a href='#'>HERE</a>
